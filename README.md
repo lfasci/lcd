@@ -3,16 +3,16 @@ This is a fork of https://github.com/the-raspberry-pi-guy/lcd, i only added lcds
 
 The script takes the following parameters as input
 
--f  <message to display on first row>
+-f  message to display on first row
 
- -s  <message to display on second row> 
+ -s  message to display on second row 
 
- -b <blink first row> 
+ -b blink first row 
 
--B <blink second row> 
+-B blink second row 
 
--c <center first row> 
+-c center first row 
 
--C <center second row> 
+-C center second row 
 
--d <duration in seconds>
+-d duration in seconds
